@@ -1,0 +1,20 @@
+C:\Users\USER\Desktop\New folder (16)\Project\Class Management System\WindowsFormsApp1\bin\Debug\Institute.mdf
+C:\Users\USER\Desktop\New folder (16)\Project\Class Management System\WindowsFormsApp1\bin\Debug\Institute_log.ldf
+C:\Users\USER\Desktop\New folder (16)\Project\Class Management System\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\USER\Desktop\New folder (16)\Project\Class Management System\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\USER\Desktop\New folder (16)\Project\Class Management System\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\USER\Desktop\New folder (16)\Project\Class Management System\WindowsFormsApp1\bin\Debug\MaterialSkin.dll
+C:\Users\USER\Desktop\New folder (16)\Project\Class Management System\WindowsFormsApp1\obj\Debug\Class Management System.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\New folder (16)\Project\Class Management System\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormClasses.resources
+C:\Users\USER\Desktop\New folder (16)\Project\Class Management System\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dashboard.resources
+C:\Users\USER\Desktop\New folder (16)\Project\Class Management System\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\USER\Desktop\New folder (16)\Project\Class Management System\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Dashboard.resources
+C:\Users\USER\Desktop\New folder (16)\Project\Class Management System\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormStaff.resources
+C:\Users\USER\Desktop\New folder (16)\Project\Class Management System\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Attendance.resources
+C:\Users\USER\Desktop\New folder (16)\Project\Class Management System\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\USER\Desktop\New folder (16)\Project\Class Management System\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.FormStudent.resources
+C:\Users\USER\Desktop\New folder (16)\Project\Class Management System\WindowsFormsApp1\obj\Debug\Class Management System.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\New folder (16)\Project\Class Management System\WindowsFormsApp1\obj\Debug\Class Management System.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\New folder (16)\Project\Class Management System\WindowsFormsApp1\obj\Debug\Class Management System.csproj.CopyComplete
+C:\Users\USER\Desktop\New folder (16)\Project\Class Management System\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\USER\Desktop\New folder (16)\Project\Class Management System\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
